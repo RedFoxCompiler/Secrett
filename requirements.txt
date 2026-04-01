@@ -1,0 +1,5 @@
+pyzmq==25.1.2
+pyarrow==15.0.0
+pandas==2.2.0
+numpy==1.26.4
+psutil
